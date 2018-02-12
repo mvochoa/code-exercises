@@ -11,7 +11,7 @@ func comparetheTriplets(a [3]int, b [3]int) {
 			tb++
 		}
 	}
-	fmt.Printf("%v %v", ta, tb)
+	fmt.Printf("%v %v\n", ta, tb)
 }
 
 func main() {
