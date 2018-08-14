@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"sort"
 	"time"
 )
 
@@ -23,9 +22,24 @@ func countTriplets(a []int64, r int64) int64 {
 		if j, ok = m[n1]; ok {
 			k, ok = m[n2]
 			if ok {
-				w = sort.Search(len(j), func(q int) bool { return j[q] > i })
+				w = func(q int) int {
+					for l := q; l < len(j); l++ {
+						if j[l] > i {
+							return l
+						}
+					}
+					return len(j)
+				}(0)
+				p = 0
 				for ; w < len(j); w++ {
-					p = sort.Search(len(k), func(q int) bool { return k[q] > j[w] })
+					p = func(q int) int {
+						for l := q; l < len(k); l++ {
+							if k[l] > j[w] {
+								return l
+							}
+						}
+						return len(k)
+					}(p)
 					c += int64(len(k) - p)
 				}
 			}
