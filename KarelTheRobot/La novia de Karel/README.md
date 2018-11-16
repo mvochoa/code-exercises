@@ -26,13 +26,9 @@ Los amigos están representados por montones de 1 zumbador, los familiares por m
 
 ## Ejemplo
 
-![Mundo de ejemplo](http://www.cmirg.com/karelotitlan/public/12965/novia1.jpg)
-
-```Mundo de ejemplo```
-
-![Mundo de ejemplo](http://www.cmirg.com/karelotitlan/public/12965/novia2.jpg)
-
-```Solución al mundo de ejemplo```
+ Mundo de ejemplo | Solución al mundo de ejemplo
+---|---
+ ![](images/img1.jpg) | ![](images/img2.jpg)
 
 ## Agradecimiento
 

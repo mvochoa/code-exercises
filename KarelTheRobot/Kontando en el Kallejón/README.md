@@ -15,13 +15,9 @@ Karel está en un callejón que sólo tiene una salida y no tiene recovecos. Kar
 
 ## Ejemplo
 
-![Mundo de ejemplo](http://www.cmirg.com/karelotitlan/public/12933/img1.bmp)
-
-```Mundo de ejemplo```
-
-![Mundo de ejemplo](http://www.cmirg.com/karelotitlan/public/12933/img2.bmp)
-
-```Solución al mundo de ejemplo```
+ Mundo de ejemplo | Solución al mundo de ejemplo
+---|---
+ ![](images/img1.jpg) | ![](images/img2.jpg)
 
 ## Explicación al mundo de ejemplo
 

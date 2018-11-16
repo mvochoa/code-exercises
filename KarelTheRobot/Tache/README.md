@@ -16,13 +16,9 @@ Tu tarea consiste en poner un tache dentro del cuadrado.
 
 ## Ejemplo
 
-![](images/img1.bmp)
-
-```Mundo de ejemplo```
-
-![](images/img2.bmp)
-
-```Solución al mundo de ejemplo```
+ Mundo de ejemplo | Solución al mundo de ejemplo
+---|---
+ ![](images/img1.jpg) | ![](images/img2.jpg)
 
 ## Agradecimiento
 
