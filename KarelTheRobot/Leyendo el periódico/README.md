@@ -22,11 +22,11 @@ Escribe un programa que permita a Karel ir por el periódico y regresar a su sal
 
 ## Ejemplo
 
-![Mundo de ejemplo](http://www.cmirg.com/karelotitlan/public/12887/img1.jpg)
+![Mundo de ejemplo](images/img1.jpg)
 
 ```Mundo de ejemplo```
 
-![Mundo de ejemplo](http://www.cmirg.com/karelotitlan/public/12887/img2.jpg)
+![Mundo de ejemplo](images/img2.jpg)
 
 ```Solución al mundo de ejemplo```
 
