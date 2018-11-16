@@ -1,0 +1,89 @@
+iniciar-programa
+    define-nueva-instruccion av como
+    inicio
+        si frente-libre entonces
+        inicio
+            avanza;
+            si frente-libre entonces
+            inicio
+                avanza;
+            fin;
+            av;
+            avanza;
+        fin
+        sino
+        inicio
+            gira-izquierda;
+            gira-izquierda;
+        fin;
+    fin;
+
+    define-nueva-instruccion volver como
+    inicio
+        gira-izquierda;
+        gira-izquierda;
+        mientras frente-libre hacer
+        inicio
+            avanza;
+        fin;
+        gira-izquierda;
+        gira-izquierda;
+    fin;
+
+    define-nueva-instruccion edificar como
+    inicio
+        si junto-a-zumbador entonces
+        inicio
+            coge-zumbador;
+            edificar;
+            si no-junto-a-zumbador entonces
+            inicio
+                deja-zumbador;
+            fin;
+            avanza;
+        fin
+        sino
+        inicio
+            volver;
+        fin;
+    fin;
+
+    inicia-ejecucion
+        av;
+        gira-izquierda;
+        gira-izquierda;
+        si junto-a-zumbador entonces
+        inicio
+          edificar;
+          volver;
+          av;
+          gira-izquierda;
+          gira-izquierda;
+        fin;
+        mientras frente-libre hacer
+        inicio
+            avanza;
+            si junto-a-zumbador entonces
+            inicio
+                edificar;
+                volver;
+                av;
+                gira-izquierda;
+                gira-izquierda;
+            fin;
+            si frente-bloqueado entonces
+            inicio
+              si derecha-libre entonces
+              inicio
+                gira-izquierda;
+                gira-izquierda;
+                gira-izquierda;
+                avanza;
+                gira-izquierda;
+                volver;
+              fin;
+            fin;
+        fin;
+        apagate;
+    termina-ejecucion
+finalizar-programa
