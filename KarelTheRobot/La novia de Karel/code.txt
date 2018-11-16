@@ -49,7 +49,7 @@ iniciar-programa
         mientras no-orientado-al-norte hacer
         inicio
             gira-izquierda;
-        fin; 
+        fin;
 
         mientras frente-libre hacer
         inicio
