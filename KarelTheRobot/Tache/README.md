@@ -16,17 +16,17 @@ Tu tarea consiste en poner un tache dentro del cuadrado.
 
 ## Ejemplo
 
-![Mundo de ejemplo](images/img1.bmp)
+![](images/img1.bmp)
 
 ```Mundo de ejemplo```
 
-![Mundo de ejemplo](images/img2.bmp)
+![](images/img2.bmp)
 
 ```Solución al mundo de ejemplo```
 
 ## Agradecimiento
 
-SSe agradece al Comité de Informática del Estado de Aguascalientes (OMIAgs) el permiso para publicar este problema en nuestro sitio.
+Se agradece al Comité de Informática del Estado de Aguascalientes (OMIAgs) el permiso para publicar este problema en nuestro sitio.
 
 [Karelotitlán v1.2.6](http://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12931)
 por Félix Rafael Horta Cuadrilla
