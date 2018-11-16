@@ -22,13 +22,9 @@ Escribe un programa que permita a Karel ir por el periódico y regresar a su sal
 
 ## Ejemplo
 
-![Mundo de ejemplo](images/img1.jpg)
-
-```Mundo de ejemplo```
-
-![Mundo de ejemplo](images/img2.jpg)
-
-```Solución al mundo de ejemplo```
+ Mundo de ejemplo | Solución al mundo de ejemplo
+---|---
+ ![Mundo de ejemplo](images/img1.jpg) | ![Mundo de ejemplo](images/img2.jpg)
 
 [Karelotitlán v1.2.6](http://www.cmirg.com/karelotitlan/pantallas/Problema.aspx?id=12887)
 por Félix Rafael Horta Cuadrilla
