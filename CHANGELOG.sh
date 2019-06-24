@@ -25,6 +25,7 @@ do
 
     dir=${names[$namesLength-1]}
     name="$(tr '[:lower:]' '[:upper:]' <<< ${dir:0:1})${dir:1}"
-    echo "$space- [${name//-/ }]($CI_PROJECT_URL/tree/master${line/\./})" >> README.md
+    date=$(git log -1 --format=%cd --date=relative $line)
+    echo "$space- [${name//-/ }]($CI_PROJECT_URL/tree/master${line/\./}) - *$date*" >> README.md
     last=(${names[@]})
 done
