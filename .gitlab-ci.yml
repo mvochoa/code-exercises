@@ -13,8 +13,8 @@ update readme:
   script:
     - ./CHANGELOG.sh
     - git add README.md
-    - git commit -m 'Se actualizo el README.md'
-    - git push origin master
+    - git commit -m 'Se actualizo el README.md' || true
+    - git push origin master || true
   only:
     changes:
       - "**/README.md"
