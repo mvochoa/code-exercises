@@ -1,2 +1,34 @@
 # Hackerrank
 Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.com/)
+
+- **Algorithms**
+  - **Implementation**
+    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team)
+    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets)
+    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater)
+    - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast)
+    - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption)
+    - [Grading](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/grading)
+    - [Halloween sale](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/halloween-sale)
+    - [Kaprekar numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/kaprekar-numbers)
+    - [Lisa workbook](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/lisa-workbook)
+    - [Minimum distances](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/minimum-distances)
+    - [Organizing containers of balls](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/organizing-containers-of-balls)
+    - [Service lane](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/service-lane)
+    - [The time in words](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-time-in-words)
+  - **Warmup**
+    - [A very big sum](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Warmup/a-very-big-sum)
+- **Data Structures**
+  - **Arrays**
+    - [Arrays ds](https://gitlab.com/mvochoa/hackerrank/tree/master/Data-Structures/Arrays/arrays-ds)
+- **Java**
+  - **Introduction**
+    - [Java datatypes](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-datatypes)
+    - [Java end of file](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-end-of-file)
+    - [Java static initializer block](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-static-initializer-block)
+- **Karel The Robot**
+  - [Karel Mosby arquitecto](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Karel-Mosby-arquitecto)
+  - [Kontando en el Kallejón](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Kontando-en-el-Kallejón)
+  - [La novia de Karel](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/La-novia-de-Karel)
+  - [Leyendo el periódico](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Leyendo-el-periódico)
+  - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache)
