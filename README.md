@@ -8,7 +8,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
     - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *6 months ago*
     - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - *4 weeks ago*
     - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - *6 months ago*
-    - [Fair rations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/fair-rations) - *35 seconds ago*
+    - [Fair rations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/fair-rations) - *3 minutes ago*
     - [Flatland space stations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/flatland-space-stations) - *6 days ago*
     - [Grading](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/grading) - *6 months ago*
     - [Halloween sale](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/halloween-sale) - *5 weeks ago*
