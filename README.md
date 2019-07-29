@@ -6,7 +6,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
     - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *8 months ago*
     - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *6 months ago*
     - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *6 months ago*
-    - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *35 seconds ago*
+    - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *55 seconds ago*
     - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - *7 weeks ago*
     - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - *7 months ago*
     - [Fair rations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/fair-rations) - *2 weeks ago*
