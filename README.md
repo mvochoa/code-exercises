@@ -15,7 +15,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
     - [Halloween sale](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/halloween-sale) - *2 months ago*
     - [Kaprekar numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/kaprekar-numbers) - *6 months ago*
     - [Lisa workbook](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/lisa-workbook) - *8 weeks ago*
-    - [Manasa and stones](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/manasa-and-stones) - *54 seconds ago*
+    - [Manasa and stones](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/manasa-and-stones) - *73 seconds ago*
     - [Minimum distances](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/minimum-distances) - *6 months ago*
     - [Organizing containers of balls](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/organizing-containers-of-balls) - *7 months ago*
     - [Service lane](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/service-lane) - *9 weeks ago*
