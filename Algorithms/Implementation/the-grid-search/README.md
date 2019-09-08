@@ -1,0 +1,158 @@
+# The Grid Search
+Reference: [https://www.hackerrank.com/challenges/the-grid-search/problem](https://www.hackerrank.com/challenges/the-grid-search/problem)
+
+```md
+1234567890
+09*876543*21
+11*111111*11
+11*111111*11
+2222222222
+```
+
+Assume we need to look for the following 2D pattern array:
+
+```
+876543
+111111
+111111
+```
+
+The 2D pattern begins at the second row and the third column of the grid. The pattern is said to be present in the grid.
+
+## Input Format
+
+The first line contains an integer $`t`$, the number of test cases.
+
+Each of the $`t`$ test cases is represented as follows:
+The first line contains two space-separated integers $`R`$ and $`C`$ , indicating the number of rows and columns in the grid $`G`$.
+This is followed by $`R`$ lines, each with a string of $`C`$ digits representing the grid $`G`$.
+The following line contains two space-separated integers, $`r`$ and $`c`$, indicating the number of rows and columns in the pattern grid $`P`$.
+This is followed by $`r`$ lines, each with a string of $`c`$ digits representing the pattern $`P`$.
+
+## Constraints
+
+- $`1 \leq T \leq 5`$
+- $`1 \leq R,r,C,c \leq 1000`$
+- $`1 \leq r \leq R`$
+- $`1 \leq c \leq C`$
+
+## Output Format
+
+Display `YES` or `NO`, depending on whether $`P`$ is present in $`G`$.
+
+## Sample Input
+
+```
+2
+10 10
+7283455864
+6731158619
+8988242643
+3830589324
+2229505813
+5633845374
+6473530293
+7053106601
+0834282956
+4607924137
+3 4
+9505
+3845
+3530
+15 15
+400453592126560
+114213133098692
+474386082879648
+522356951189169
+887109450487496
+252802633388782
+502771484966748
+075975207693780
+511799789562806
+404007454272504
+549043809916080
+962410809534811
+445893523733475
+768705303214174
+650629270887160
+2 2
+99
+99
+```
+
+## Sample Output
+
+```
+YES
+NO
+```
+
+## Explanation
+
+The first test in the input file is:
+
+```
+10 10
+7283455864
+6731158619
+8988242643
+3830589324
+2229505813
+5633845374
+6473530293
+7053106601
+0834282956
+4607924137
+3 4
+9505
+3845
+3530
+```
+
+As one may see, the given pattern is present in the larger grid, as marked in bold below.
+
+```md
+7283455864
+6731158619
+8988242643
+3830589324
+222*9505*813
+563*3845*374
+647*3530*293
+7053106601
+0834282956
+4607924137
+```
+
+The second test in the input file is:
+
+```
+15 15
+400453592126560
+114213133098692
+474386082879648
+522356951189169
+887109450487496
+252802633388782
+502771484966748
+075975207693780
+511799789562806
+404007454272504
+549043809916080
+962410809534811
+445893523733475
+768705303214174
+650629270887160
+2 2
+99
+99
+```
+
+The search pattern is:
+
+```
+99
+99
+```
+
+This cannot be found in the larger grid.
