@@ -19,7 +19,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
     - [Minimum distances](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/minimum-distances) - *7 months ago*
     - [Organizing containers of balls](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/organizing-containers-of-balls) - *8 months ago*
     - [Service lane](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/service-lane) - *3 months ago*
-    - [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - *70 seconds ago*
+    - [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - *2 minutes ago*
     - [The time in words](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-time-in-words) - *3 months ago*
   - **Warmup**
     - [A very big sum](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Warmup/a-very-big-sum) - *3 months ago*
