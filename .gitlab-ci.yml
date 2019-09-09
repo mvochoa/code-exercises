@@ -5,8 +5,6 @@ update readme:
     stage: changes
     image: alpine:3.8
     before_script:
-        - echo $CI_COMMIT_MESSAGE
-        - echo $GITLAB_USER_EMAIL
         - apk add --update git bash
         - git clone https://gitlab-ci-token:$TOKEN_GITLAB$(echo $CI_REPOSITORY_URL | grep -o '@.*')
         - git config --global user.email 'gitlab-ci-token@gitlab.com'
