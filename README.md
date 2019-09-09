@@ -1,7 +1,6 @@
 # Hackerrank
 Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.com/)
 
-
 - **Algorithms**
   - **Implementation**
     - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *9 months ago*
@@ -40,4 +39,4 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
   - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - *3 months ago*
 - **Tutorials**
   - **30 Days of Code**
-    - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *2 minutes ago*
+    - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *5 minutes ago*
