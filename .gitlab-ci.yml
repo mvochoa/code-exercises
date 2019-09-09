@@ -17,8 +17,5 @@ update readme:
         - git push origin master || true
     only:
         changes:
-            - "**/README.md"
-            - "**/**/README.md"
-    except:
-        changes:
-            - "./README.md"
+            - "./**/README.md"
+            - "./**/**/README.md"
