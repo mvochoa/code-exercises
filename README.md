@@ -19,7 +19,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
     - [Minimum distances](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/minimum-distances) - *7 months ago*
     - [Organizing containers of balls](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/organizing-containers-of-balls) - *8 months ago*
     - [Service lane](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/service-lane) - *3 months ago*
-    - [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - *2 minutes ago*
+    - [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - *3 hours ago*
     - [The time in words](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-time-in-words) - *3 months ago*
   - **Warmup**
     - [A very big sum](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Warmup/a-very-big-sum) - *3 months ago*
@@ -37,3 +37,6 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
   - [La novia de Karel](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/La-novia-de-Karel) - *3 months ago*
   - [Leyendo el periódico](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Leyendo-el-periódico) - *3 months ago*
   - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - *3 months ago*
+- **Tutorials**
+  - **30 Days of Code**
+    - [Day 0_hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *22 seconds ago*
