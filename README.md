@@ -39,4 +39,4 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
   - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - *3 months ago*
 - **Tutorials**
   - **30 Days of Code**
-    - [Day 0_hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *22 seconds ago*
+    - [Day 0_hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *43 seconds ago*
