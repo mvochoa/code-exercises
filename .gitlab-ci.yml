@@ -11,10 +11,14 @@ update readme:
         - git config --global user.name 'gitlab-ci-token'
         - cd $CI_PROJECT_NAME
     script:
+        - ls -t $(find . -name README.md -not -path '\.\/README.md') | xargs -r0
         - ./CHANGELOG.sh
         - git add README.md
-        - git commit -m 'Se actualizo el README.md' || true
+        - git commit -m '[GITLAB] Se actualizo el README.md' || true
         - git push origin master || true
     only:
+        variables:
+            - $CI_COMMIT_MESSAGE != "[GITLAB] Se actualizo el README.md"
         changes:
+            - "**/**/README.md"
             - "**/README.md"
