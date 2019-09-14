@@ -3,23 +3,20 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
 
 - **Algorithms**
   - **Implementation**
-    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *9 months ago*
-    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *7 months ago*
-    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *8 months ago*
-    - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *6 weeks ago*
+    - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *7 weeks ago*
     - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - *3 months ago*
     - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - *8 months ago*
-    - [Fair rations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/fair-rations) - *8 weeks ago*
-    - [Flatland space stations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/flatland-space-stations) - *9 weeks ago*
+    - [Fair rations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/fair-rations) - *9 weeks ago*
+    - [Flatland space stations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/flatland-space-stations) - *2 months ago*
     - [Grading](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/grading) - *8 months ago*
     - [Halloween sale](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/halloween-sale) - *3 months ago*
     - [Kaprekar numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/kaprekar-numbers) - *7 months ago*
     - [Lisa workbook](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/lisa-workbook) - *3 months ago*
-    - [Manasa and stones](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/manasa-and-stones) - *3 weeks ago*
+    - [Manasa and stones](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/manasa-and-stones) - *4 weeks ago*
     - [Minimum distances](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/minimum-distances) - *7 months ago*
     - [Organizing containers of balls](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/organizing-containers-of-balls) - *8 months ago*
     - [Service lane](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/service-lane) - *3 months ago*
-    - [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - *4 hours ago*
+    - [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - *6 days ago*
     - [The time in words](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-time-in-words) - *3 months ago*
   - **Warmup**
     - [A very big sum](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Warmup/a-very-big-sum) - *3 months ago*
@@ -29,7 +26,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
 - **Java**
   - **Introduction**
     - [Java datatypes](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-datatypes) - *9 months ago*
-    - [Java end of file](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-end-of-file) - *8 months ago*
+    - [Java end of file](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-end-of-file) - *9 months ago*
     - [Java static initializer block](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-static-initializer-block) - *7 months ago*
 - **Karel The Robot**
   - [Karel Mosby arquitecto](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Karel-Mosby-arquitecto) - *3 months ago*
@@ -39,4 +36,10 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
   - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - *3 months ago*
 - **Tutorials**
   - **30 Days of Code**
-    - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *6 minutes ago*
+    - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *6 days ago*
+    - [Day 1: data types](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-1_data-types) - *2 minutes ago*
+- **Algorithms**
+  - **Implementation**
+    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *9 months ago*
+    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *7 months ago*
+    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *8 months ago*
