@@ -3,6 +3,9 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
 
 - **Algorithms**
   - **Implementation**
+    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *9 months ago*
+    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *7 months ago*
+    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *8 months ago*
     - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *7 weeks ago*
     - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - *3 months ago*
     - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - *8 months ago*
@@ -37,9 +40,4 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
 - **Tutorials**
   - **30 Days of Code**
     - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *6 days ago*
-    - [Day 1: data types](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-1_data-types) - *2 minutes ago*
-- **Algorithms**
-  - **Implementation**
-    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *9 months ago*
-    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *7 months ago*
-    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *8 months ago*
+    - [Day 1: data types](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-1_data-types) - *3 minutes ago*
