@@ -39,7 +39,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
   - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - *4 months ago*
 - **LeetCode**
   - **Problems**
-    - [Add two numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/add-two-numbers) - *67 seconds ago*
+    - [Add two numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/add-two-numbers) - *2 minutes ago*
 - **Tutorials**
   - **30 Days of Code**
     - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *8 weeks ago*
