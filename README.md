@@ -3,6 +3,9 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
 
 - **Algorithms**
   - **Implementation**
+    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *11 months ago*
+    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *9 months ago*
+    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *9 months ago*
     - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *3 months ago*
     - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - *5 months ago*
     - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - *10 months ago*
@@ -36,13 +39,8 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
   - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - *4 months ago*
 - **LeetCode**
   - **Problems**
-    - [Add two numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/add-two-numbers) - *30 seconds ago*
+    - [Add two numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/add-two-numbers) - *2 minutes ago*
 - **Tutorials**
   - **30 Days of Code**
     - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *8 weeks ago*
     - [Day 1: data types](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-1_data-types) - *7 weeks ago*
-- **Algorithms**
-  - **Implementation**
-    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *11 months ago*
-    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *9 months ago*
-    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *9 months ago*
