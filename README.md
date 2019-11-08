@@ -41,7 +41,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
   - **Problems**
     - [Add two numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/add-two-numbers) - *3 days ago*
     - [Longest substring without repeating characters](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/longest-substring-without-repeating-characters) - *3 hours ago*
-    - [Median of two sorted arrays](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/median-of-two-sorted-arrays) - *38 seconds ago*
+    - [Median of two sorted arrays](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/median-of-two-sorted-arrays) - *59 seconds ago*
 - **Tutorials**
   - **30 Days of Code**
     - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *9 weeks ago*
