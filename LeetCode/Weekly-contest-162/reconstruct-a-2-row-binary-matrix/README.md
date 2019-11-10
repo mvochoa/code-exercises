@@ -16,7 +16,7 @@ If there are more than one valid solution, any of them will be accepted.
 
 If no valid solution exists, return an empty 2-D array.
 
-#### Example 1:
+#### Example 1:
 
 ```
 Input: upper = 2, lower = 1, colsum = [1,1,1]
@@ -24,14 +24,14 @@ Output: [[1,1,0],[0,0,1]]
 Explanation: [[1,0,1],[0,1,0]], and [[0,1,1],[1,0,0]] are also correct answers.
 ```
 
-#### Example 2:
+#### Example 2:
 
 ```
 Input: upper = 2, lower = 3, colsum = [2,2,1,1]
 Output: []
 ```
 
-#### Example 3:
+#### Example 3:
 
 ```
 Input: upper = 5, lower = 5, colsum = [2,1,2,0,1,0,1,2,0,1]
