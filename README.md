@@ -3,6 +3,9 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
 
 - **Algorithms**
   - **Implementation**
+    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *11 months ago*
+    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *9 months ago*
+    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *10 months ago*
     - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *3 months ago*
     - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - *5 months ago*
     - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - *10 months ago*
@@ -41,14 +44,9 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
     - [Median of two sorted arrays](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/median-of-two-sorted-arrays) - *2 days ago*
   - **Weekly contest 162**
     - [Cells with odd values in a matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/cells-with-odd-values-in-a-matrix) - *2 hours ago*
-    - [Number of closed islands](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/number-of-closed-islands) - *44 seconds ago*
+    - [Number of closed islands](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/number-of-closed-islands) - *64 seconds ago*
     - [Reconstruct a 2 row binary matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/reconstruct-a-2-row-binary-matrix) - *4 minutes ago*
 - **Tutorials**
   - **30 Days of Code**
     - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *9 weeks ago*
     - [Day 1: data types](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-1_data-types) - *8 weeks ago*
-- **Algorithms**
-  - **Implementation**
-    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *11 months ago*
-    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *9 months ago*
-    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *10 months ago*
