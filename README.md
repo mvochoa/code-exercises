@@ -43,7 +43,7 @@ Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.
     - [Longest substring without repeating characters](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/longest-substring-without-repeating-characters) - *2 days ago*
     - [Median of two sorted arrays](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/median-of-two-sorted-arrays) - *2 days ago*
   - **weekly contest 162**
-    - [Cells with odd values in a matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/weekly-contest-162/cells-with-odd-values-in-a-matrix) - *28 seconds ago*
+    - [Cells with odd values in a matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/weekly-contest-162/cells-with-odd-values-in-a-matrix) - *52 seconds ago*
 - **Tutorials**
   - **30 Days of Code**
     - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *9 weeks ago*
