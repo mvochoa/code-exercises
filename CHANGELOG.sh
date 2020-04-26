@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "# Hackerrank" > README.md
-echo "Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.com/)" >> README.md
+echo "# Code exercises" > README.md
+echo "Code exercises solution" >> README.md
 echo "" >> README.md
 
 last=()

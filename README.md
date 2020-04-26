@@ -1,52 +1,53 @@
-# Hackerrank
-Soluciones a ejercicios de [https://www.hackerrank.com/](https://www.hackerrank.com/)
+# Code exercises
 
-- **Algorithms**
-  - **Implementation**
-    - [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - *11 months ago*
-    - [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - *9 months ago*
-    - [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - *10 months ago*
-    - [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - *3 months ago*
-    - [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - *5 months ago*
-    - [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - *10 months ago*
-    - [Fair rations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/fair-rations) - *4 months ago*
-    - [Flatland space stations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/flatland-space-stations) - *4 months ago*
-    - [Grading](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/grading) - *10 months ago*
-    - [Halloween sale](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/halloween-sale) - *5 months ago*
-    - [Kaprekar numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/kaprekar-numbers) - *9 months ago*
-    - [Lisa workbook](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/lisa-workbook) - *5 months ago*
-    - [Manasa and stones](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/manasa-and-stones) - *3 months ago*
-    - [Minimum distances](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/minimum-distances) - *9 months ago*
-    - [Organizing containers of balls](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/organizing-containers-of-balls) - *10 months ago*
-    - [Service lane](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/service-lane) - *5 months ago*
-    - [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - *9 weeks ago*
-    - [The time in words](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-time-in-words) - *5 months ago*
-  - **Warmup**
-    - [A very big sum](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Warmup/a-very-big-sum) - *5 months ago*
-- **Data Structures**
-  - **Arrays**
-    - [Arrays ds](https://gitlab.com/mvochoa/hackerrank/tree/master/Data-Structures/Arrays/arrays-ds) - *5 months ago*
-- **Java**
-  - **Introduction**
-    - [Java datatypes](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-datatypes) - *11 months ago*
-    - [Java end of file](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-end-of-file) - *11 months ago*
-    - [Java static initializer block](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-static-initializer-block) - *9 months ago*
-- **Karel The Robot**
-  - [Karel Mosby arquitecto](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Karel-Mosby-arquitecto) - *5 months ago*
-  - [Kontando en el Kallejón](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Kontando-en-el-Kallejón) - *5 months ago*
-  - [La novia de Karel](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/La-novia-de-Karel) - *5 months ago*
-  - [Leyendo el periódico](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Leyendo-el-periódico) - *5 months ago*
-  - [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - *5 months ago*
-- **LeetCode**
-  - **Problems**
-    - [Add two numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/add-two-numbers) - *5 days ago*
-    - [Longest substring without repeating characters](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/longest-substring-without-repeating-characters) - *2 days ago*
-    - [Median of two sorted arrays](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/median-of-two-sorted-arrays) - *2 days ago*
-  - **Weekly contest 162**
-    - [Cells with odd values in a matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/cells-with-odd-values-in-a-matrix) - *2 hours ago*
-    - [Number of closed islands](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/number-of-closed-islands) - *2 minutes ago*
-    - [Reconstruct a 2 row binary matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/reconstruct-a-2-row-binary-matrix) - *5 minutes ago*
-- **Tutorials**
-  - **30 Days of Code**
-    - [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - *9 weeks ago*
-    - [Day 1: data types](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-1_data-types) - *8 weeks ago*
+Code exercises solution
+
+-   **Algorithms**
+    -   **Implementation**
+        -   [Acm icpc team](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/acm-icpc-team) - _11 months ago_
+        -   [Beautiful triplets](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/beautiful-triplets) - _9 months ago_
+        -   [Bigger is greater](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/bigger-is-greater) - _10 months ago_
+        -   [Cavity map](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/cavity-map) - _3 months ago_
+        -   [Chocolate feast](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/chocolate-feast) - _5 months ago_
+        -   [Encryption](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/encryption) - _10 months ago_
+        -   [Fair rations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/fair-rations) - _4 months ago_
+        -   [Flatland space stations](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/flatland-space-stations) - _4 months ago_
+        -   [Grading](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/grading) - _10 months ago_
+        -   [Halloween sale](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/halloween-sale) - _5 months ago_
+        -   [Kaprekar numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/kaprekar-numbers) - _9 months ago_
+        -   [Lisa workbook](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/lisa-workbook) - _5 months ago_
+        -   [Manasa and stones](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/manasa-and-stones) - _3 months ago_
+        -   [Minimum distances](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/minimum-distances) - _9 months ago_
+        -   [Organizing containers of balls](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/organizing-containers-of-balls) - _10 months ago_
+        -   [Service lane](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/service-lane) - _5 months ago_
+        -   [The grid search](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-grid-search) - _9 weeks ago_
+        -   [The time in words](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Implementation/the-time-in-words) - _5 months ago_
+    -   **Warmup**
+        -   [A very big sum](https://gitlab.com/mvochoa/hackerrank/tree/master/Algorithms/Warmup/a-very-big-sum) - _5 months ago_
+-   **Data Structures**
+    -   **Arrays**
+        -   [Arrays ds](https://gitlab.com/mvochoa/hackerrank/tree/master/Data-Structures/Arrays/arrays-ds) - _5 months ago_
+-   **Java**
+    -   **Introduction**
+        -   [Java datatypes](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-datatypes) - _11 months ago_
+        -   [Java end of file](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-end-of-file) - _11 months ago_
+        -   [Java static initializer block](https://gitlab.com/mvochoa/hackerrank/tree/master/Java/Introduction/java-static-initializer-block) - _9 months ago_
+-   **Karel The Robot**
+    -   [Karel Mosby arquitecto](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Karel-Mosby-arquitecto) - _5 months ago_
+    -   [Kontando en el Kallejón](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Kontando-en-el-Kallejón) - _5 months ago_
+    -   [La novia de Karel](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/La-novia-de-Karel) - _5 months ago_
+    -   [Leyendo el periódico](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Leyendo-el-periódico) - _5 months ago_
+    -   [Tache](https://gitlab.com/mvochoa/hackerrank/tree/master/Karel-The-Robot/Tache) - _5 months ago_
+-   **LeetCode**
+    -   **Problems**
+        -   [Add two numbers](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/add-two-numbers) - _5 days ago_
+        -   [Longest substring without repeating characters](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/longest-substring-without-repeating-characters) - _2 days ago_
+        -   [Median of two sorted arrays](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Problems/median-of-two-sorted-arrays) - _2 days ago_
+    -   **Weekly contest 162**
+        -   [Cells with odd values in a matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/cells-with-odd-values-in-a-matrix) - _2 hours ago_
+        -   [Number of closed islands](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/number-of-closed-islands) - _2 minutes ago_
+        -   [Reconstruct a 2 row binary matrix](https://gitlab.com/mvochoa/hackerrank/tree/master/LeetCode/Weekly-contest-162/reconstruct-a-2-row-binary-matrix) - _5 minutes ago_
+-   **Tutorials**
+    -   **30 Days of Code**
+        -   [Day 0: hello word](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-0_hello-word) - _9 weeks ago_
+        -   [Day 1: data types](https://gitlab.com/mvochoa/hackerrank/tree/master/Tutorials/30-Days-of-Code/day-1_data-types) - _8 weeks ago_
