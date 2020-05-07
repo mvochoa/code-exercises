@@ -1,57 +1,57 @@
 # Code Exercises
 
-Code exercises solution
+_Last update: 00 Mmm 0000_
 
-- **Hackerrank**
-  - **Algorithms**
-    - **Implementation**
-      - [Acm icpc team](Hackerrank/Algorithms/Implementation/acm-icpc-team) - ***04 Dec 2018*** *1 year, 5 months ago*
-      - [Beautiful triplets](Hackerrank/Algorithms/Implementation/beautiful-triplets) - ***13 Feb 2019*** *1 year, 3 months ago*
-      - [Bigger is greater](Hackerrank/Algorithms/Implementation/bigger-is-greater) - ***19 Jan 2019*** *1 year, 4 months ago*
-      - [Cavity map](Hackerrank/Algorithms/Implementation/cavity-map) - ***29 Jul 2019*** *9 months ago*
-      - [Chocolate feast](Hackerrank/Algorithms/Implementation/chocolate-feast) - ***11 Jun 2019*** *11 months ago*
-      - [Encryption](Hackerrank/Algorithms/Implementation/encryption) - ***11 Jan 2019*** *1 year, 4 months ago*
-      - [Fair rations](Hackerrank/Algorithms/Implementation/fair-rations) - ***12 Jul 2019*** *10 months ago*
-      - [Flatland space stations](Hackerrank/Algorithms/Implementation/flatland-space-stations) - ***06 Jul 2019*** *10 months ago*
-      - [Grading](Hackerrank/Algorithms/Implementation/grading) - ***26 Jan 2019*** *1 year, 3 months ago*
-      - [Halloween sale](Hackerrank/Algorithms/Implementation/halloween-sale) - ***05 Jun 2019*** *11 months ago*
-      - [Kaprekar numbers](Hackerrank/Algorithms/Implementation/kaprekar-numbers) - ***06 Feb 2019*** *1 year, 3 months ago*
-      - [Lisa workbook](Hackerrank/Algorithms/Implementation/lisa-workbook) - ***24 Jun 2019*** *11 months ago*
-      - [Manasa and stones](Hackerrank/Algorithms/Implementation/manasa-and-stones) - ***16 Aug 2019*** *9 months ago*
-      - [Minimum distances](Hackerrank/Algorithms/Implementation/minimum-distances) - ***16 Feb 2019*** *1 year, 3 months ago*
-      - [Organizing containers of balls](Hackerrank/Algorithms/Implementation/organizing-containers-of-balls) - ***05 Jan 2019*** *1 year, 4 months ago*
-      - [Service lane](Hackerrank/Algorithms/Implementation/service-lane) - ***14 Jun 2019*** *11 months ago*
-      - [The grid search](Hackerrank/Algorithms/Implementation/the-grid-search) - ***08 Sep 2019*** *8 months ago*
-      - [The time in words](Hackerrank/Algorithms/Implementation/the-time-in-words) - ***08 Jun 2019*** *11 months ago*
-    - **Warmup**
-      - [A very big sum](Hackerrank/Algorithms/Warmup/a-very-big-sum) - ***24 Jun 2019*** *11 months ago*
-  - **Data Structures**
-    - **Arrays**
-      - [Arrays ds](Hackerrank/Data-Structures/Arrays/arrays-ds) - ***04 Jun 2019*** *11 months ago*
-  - **Java**
-    - **Introduction**
-      - [Java datatypes](Hackerrank/Java/Introduction/java-datatypes) - ***19 Dec 2018*** *1 year, 5 months ago*
-      - [Java end of file](Hackerrank/Java/Introduction/java-end-of-file) - ***29 Dec 2018*** *1 year, 4 months ago*
-      - [Java static initializer block](Hackerrank/Java/Introduction/java-static-initializer-block) - ***24 Feb 2019*** *1 year, 2 months ago*
-  - **Tutorials**
-    - **30 Days of Code**
-      - [Day 0: hello word](Hackerrank/Tutorials/30-Days-of-Code/day-0_hello-word) - ***08 Sep 2019*** *8 months ago*
-      - [Day 1: data types](Hackerrank/Tutorials/30-Days-of-Code/day-1_data-types) - ***14 Sep 2019*** *8 months ago*
-- **Karel The Robot**
-  - [Karel Mosby arquitecto](Karel-The-Robot/Karel-Mosby-arquitecto) - ***16 Nov 2018*** *1 year, 6 months ago*
-  - [Kontando en el Kallejón](Karel-The-Robot/Kontando-en-el-Kallejón) - ***14 Nov 2018*** *1 year, 6 months ago*
-  - [La novia de Karel](Karel-The-Robot/La-novia-de-Karel) - ***15 Nov 2018*** *1 year, 6 months ago*
-  - [Leyendo el periódico](Karel-The-Robot/Leyendo-el-periódico) - ***14 Nov 2018*** *1 year, 6 months ago*
-  - [Tache](Karel-The-Robot/Tache) - ***15 Nov 2018*** *1 year, 6 months ago*
-- **LeetCode**
-  - **Problems**
-    - [Add two numbers](LeetCode/Problems/add-two-numbers) - ***05 Nov 2019*** *6 months ago*
-    - [Longest substring without repeating characters](LeetCode/Problems/longest-substring-without-repeating-characters) - ***07 Nov 2019*** *6 months ago*
-    - [Median of two sorted arrays](LeetCode/Problems/median-of-two-sorted-arrays) - ***07 Nov 2019*** *6 months ago*
-  - **Weekly contest 162**
-    - [Cells with odd values in a matrix](LeetCode/Weekly-contest-162/cells-with-odd-values-in-a-matrix) - ***09 Nov 2019*** *6 months ago*
-    - [Number of closed islands](LeetCode/Weekly-contest-162/number-of-closed-islands) - ***10 Nov 2019*** *6 months ago*
-    - [Reconstruct a 2 row binary matrix](LeetCode/Weekly-contest-162/reconstruct-a-2-row-binary-matrix) - ***09 Nov 2019*** *6 months ago*
-- **OmegaUp**
-  - [Aldp](OmegaUp/aldp) - ***07 May 2020*** *54 seconds ago*
-  - [Camino subterraneo shamash](OmegaUp/camino-subterraneo-shamash) - ***07 May 2020*** *25 seconds ago*
+-   **Hackerrank**
+    -   **Algorithms**
+        -   **Implementation**
+            -   [Acm icpc team](Hackerrank/Algorithms/Implementation/acm-icpc-team) - **_04 Dec 2018_** _1 year, 5 months ago_
+            -   [Beautiful triplets](Hackerrank/Algorithms/Implementation/beautiful-triplets) - **_13 Feb 2019_** _1 year, 3 months ago_
+            -   [Bigger is greater](Hackerrank/Algorithms/Implementation/bigger-is-greater) - **_19 Jan 2019_** _1 year, 4 months ago_
+            -   [Cavity map](Hackerrank/Algorithms/Implementation/cavity-map) - **_29 Jul 2019_** _9 months ago_
+            -   [Chocolate feast](Hackerrank/Algorithms/Implementation/chocolate-feast) - **_11 Jun 2019_** _11 months ago_
+            -   [Encryption](Hackerrank/Algorithms/Implementation/encryption) - **_11 Jan 2019_** _1 year, 4 months ago_
+            -   [Fair rations](Hackerrank/Algorithms/Implementation/fair-rations) - **_12 Jul 2019_** _10 months ago_
+            -   [Flatland space stations](Hackerrank/Algorithms/Implementation/flatland-space-stations) - **_06 Jul 2019_** _10 months ago_
+            -   [Grading](Hackerrank/Algorithms/Implementation/grading) - **_26 Jan 2019_** _1 year, 3 months ago_
+            -   [Halloween sale](Hackerrank/Algorithms/Implementation/halloween-sale) - **_05 Jun 2019_** _11 months ago_
+            -   [Kaprekar numbers](Hackerrank/Algorithms/Implementation/kaprekar-numbers) - **_06 Feb 2019_** _1 year, 3 months ago_
+            -   [Lisa workbook](Hackerrank/Algorithms/Implementation/lisa-workbook) - **_24 Jun 2019_** _11 months ago_
+            -   [Manasa and stones](Hackerrank/Algorithms/Implementation/manasa-and-stones) - **_16 Aug 2019_** _9 months ago_
+            -   [Minimum distances](Hackerrank/Algorithms/Implementation/minimum-distances) - **_16 Feb 2019_** _1 year, 3 months ago_
+            -   [Organizing containers of balls](Hackerrank/Algorithms/Implementation/organizing-containers-of-balls) - **_05 Jan 2019_** _1 year, 4 months ago_
+            -   [Service lane](Hackerrank/Algorithms/Implementation/service-lane) - **_14 Jun 2019_** _11 months ago_
+            -   [The grid search](Hackerrank/Algorithms/Implementation/the-grid-search) - **_08 Sep 2019_** _8 months ago_
+            -   [The time in words](Hackerrank/Algorithms/Implementation/the-time-in-words) - **_08 Jun 2019_** _11 months ago_
+        -   **Warmup**
+            -   [A very big sum](Hackerrank/Algorithms/Warmup/a-very-big-sum) - **_24 Jun 2019_** _11 months ago_
+    -   **Data Structures**
+        -   **Arrays**
+            -   [Arrays ds](Hackerrank/Data-Structures/Arrays/arrays-ds) - **_04 Jun 2019_** _11 months ago_
+    -   **Java**
+        -   **Introduction**
+            -   [Java datatypes](Hackerrank/Java/Introduction/java-datatypes) - **_19 Dec 2018_** _1 year, 5 months ago_
+            -   [Java end of file](Hackerrank/Java/Introduction/java-end-of-file) - **_29 Dec 2018_** _1 year, 4 months ago_
+            -   [Java static initializer block](Hackerrank/Java/Introduction/java-static-initializer-block) - **_24 Feb 2019_** _1 year, 2 months ago_
+    -   **Tutorials**
+        -   **30 Days of Code**
+            -   [Day 0: hello word](Hackerrank/Tutorials/30-Days-of-Code/day-0_hello-word) - **_08 Sep 2019_** _8 months ago_
+            -   [Day 1: data types](Hackerrank/Tutorials/30-Days-of-Code/day-1_data-types) - **_14 Sep 2019_** _8 months ago_
+-   **Karel The Robot**
+    -   [Karel Mosby arquitecto](Karel-The-Robot/Karel-Mosby-arquitecto) - **_16 Nov 2018_** _1 year, 6 months ago_
+    -   [Kontando en el Kallejón](Karel-The-Robot/Kontando-en-el-Kallejón) - **_14 Nov 2018_** _1 year, 6 months ago_
+    -   [La novia de Karel](Karel-The-Robot/La-novia-de-Karel) - **_15 Nov 2018_** _1 year, 6 months ago_
+    -   [Leyendo el periódico](Karel-The-Robot/Leyendo-el-periódico) - **_14 Nov 2018_** _1 year, 6 months ago_
+    -   [Tache](Karel-The-Robot/Tache) - **_15 Nov 2018_** _1 year, 6 months ago_
+-   **LeetCode**
+    -   **Problems**
+        -   [Add two numbers](LeetCode/Problems/add-two-numbers) - **_05 Nov 2019_** _6 months ago_
+        -   [Longest substring without repeating characters](LeetCode/Problems/longest-substring-without-repeating-characters) - **_07 Nov 2019_** _6 months ago_
+        -   [Median of two sorted arrays](LeetCode/Problems/median-of-two-sorted-arrays) - **_07 Nov 2019_** _6 months ago_
+    -   **Weekly contest 162**
+        -   [Cells with odd values in a matrix](LeetCode/Weekly-contest-162/cells-with-odd-values-in-a-matrix) - **_09 Nov 2019_** _6 months ago_
+        -   [Number of closed islands](LeetCode/Weekly-contest-162/number-of-closed-islands) - **_10 Nov 2019_** _6 months ago_
+        -   [Reconstruct a 2 row binary matrix](LeetCode/Weekly-contest-162/reconstruct-a-2-row-binary-matrix) - **_09 Nov 2019_** _6 months ago_
+-   **OmegaUp**
+    -   [Aldp](OmegaUp/aldp) - **_07 May 2020_** _54 seconds ago_
+    -   [Camino subterraneo shamash](OmegaUp/camino-subterraneo-shamash) - **_07 May 2020_** _25 seconds ago_

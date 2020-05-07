@@ -1,7 +1,7 @@
 #!/bin/bash
 
-printf "# Code Exercises\n\n" > README.md
-printf "Code exercises solution\n\n" >> README.md
+printf "# Code Exercises\n" > README.md
+printf "*Last update: $(date +%d\ %b\ %Y)*\n\n" >> README.md
 
 last=()
 list=($(ls -t $(find . -name README.md -not -path '\.\/README.md') | xargs -r0))
