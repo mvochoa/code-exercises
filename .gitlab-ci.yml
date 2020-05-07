@@ -1,7 +1,7 @@
 stages:
     - changes
 
-update readme:
+update::readme:
     stage: changes
     image: alpine:3.8
     before_script:
@@ -13,11 +13,12 @@ update readme:
     script:
         - ./CHANGELOG.sh
         - git add README.md
-        - git commit -m '[GITLAB] Se actualizo el README.md' || true
+        - git commit -m '[Gitlab] Update README.md' || true
         - git push origin master || true
     only:
-        variables:
-            - $CI_COMMIT_MESSAGE != "[GITLAB] Se actualizo el README.md"
         changes:
             - "**/**/README.md"
             - "**/README.md"
+    except:
+        variables:
+            - $CI_COMMIT_MESSAGE =~ /Gitlab/

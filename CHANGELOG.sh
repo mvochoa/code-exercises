@@ -1,8 +1,7 @@
 #!/bin/bash
 
-echo "# Code exercises" > README.md
-echo "Code exercises solution" >> README.md
-echo "" >> README.md
+printf "# Code Exercises\n\n" > README.md
+printf "Code exercises solution\n\n" >> README.md
 
 last=()
 list=($(ls -t $(find . -name README.md -not -path '\.\/README.md') | xargs -r0))
@@ -26,7 +25,8 @@ do
     dir=${names[$namesLength-1]}
     name="$(tr '[:lower:]' '[:upper:]' <<< ${dir:0:1})${dir:1}"
     name=${name//_/: }
-    date=$(git log -1 --format=%cd --date=relative $line)
-    echo "$space- [${name//-/ }]($CI_PROJECT_URL/tree/master${line/\./}) - *$date*" >> README.md
+    date=$(git log --format=%cd --date=format:%d\ %b\ %Y $line | tail -n 1)
+    dateRelative=$(git --no-pager log --format=%cd --date=relative $line | tail -n 1)
+    echo "$space- [${name//-/ }](${line/\.\//}) - ***$date*** *$dateRelative*" >> README.md
     last=(${names[@]})
 done
