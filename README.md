@@ -52,3 +52,6 @@ Code exercises solution
     - [Cells with odd values in a matrix](LeetCode/Weekly-contest-162/cells-with-odd-values-in-a-matrix) - ***09 Nov 2019*** *6 months ago*
     - [Number of closed islands](LeetCode/Weekly-contest-162/number-of-closed-islands) - ***10 Nov 2019*** *6 months ago*
     - [Reconstruct a 2 row binary matrix](LeetCode/Weekly-contest-162/reconstruct-a-2-row-binary-matrix) - ***09 Nov 2019*** *6 months ago*
+- **OmegaUp**
+  - [Aldp](OmegaUp/aldp) - ***07 May 2020*** *54 seconds ago*
+  - [Camino subterraneo shamash](OmegaUp/camino-subterraneo-shamash) - ***07 May 2020*** *25 seconds ago*
