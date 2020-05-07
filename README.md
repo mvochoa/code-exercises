@@ -53,5 +53,6 @@ Code exercises solution
     - [Number of closed islands](LeetCode/Weekly-contest-162/number-of-closed-islands) - ***10 Nov 2019*** *6 months ago*
     - [Reconstruct a 2 row binary matrix](LeetCode/Weekly-contest-162/reconstruct-a-2-row-binary-matrix) - ***09 Nov 2019*** *6 months ago*
 - **OmegaUp**
-  - [Aldp](OmegaUp/aldp) - ***07 May 2020*** *54 seconds ago*
-  - [Camino subterraneo shamash](OmegaUp/camino-subterraneo-shamash) - ***07 May 2020*** *25 seconds ago*
+  - [Aldp](OmegaUp/aldp) - ***07 May 2020*** *21 minutes ago*
+  - [Camino subterraneo shamash](OmegaUp/camino-subterraneo-shamash) - ***07 May 2020*** *20 minutes ago*
+  - [La secuencia infinita](OmegaUp/la-secuencia-infinita) - ***07 May 2020*** *38 seconds ago*
