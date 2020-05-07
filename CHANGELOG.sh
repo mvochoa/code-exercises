@@ -25,8 +25,9 @@ do
     dir=${names[$namesLength-1]}
     name="$(tr '[:lower:]' '[:upper:]' <<< ${dir:0:1})${dir:1}"
     name=${name//_/: }
-    date=$(git log --format=%cd --date=format:%d\ %b\ %Y $line | tail -n 1)
-    dateRelative=$(git --no-pager log --format=%cd --date=relative $line | tail -n 1)
+    date=$(git log --follow --format=%cd --date=format:%d\ %b\ %Y $line/README.md | tail -n 1)
+    dateRelative=$(git log --follow --format=%cd --date=relative $line/README.md | tail -n 1)
+    echo "git log --follow --format=%cd --date=format:%d\ %b\ %Y $line/README.md - $date -- $dateRelative"
     echo "$space- [${name//-/ }](${line/\.\//}) - ***$date*** *$dateRelative*" >> README.md
     last=(${names[@]})
 done
