@@ -1,0 +1,29 @@
+{
+    "name": "Alpine",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {
+        "terminal.integrated.shell.linux": null,
+        "files.trimTrailingWhitespace": true,
+        "editor.renderWhitespace": "all",
+        "editor.wordWrap": "on",
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": false,
+        "editor.renderIndentGuides": false,
+        "cSpell.language": "en,es,en-US,en-GB,es-ES",
+        "cSpell.enableFiletypes": [
+            "graphql"
+        ],
+        "[markdown]": {
+            "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+        }
+    },
+    "extensions": [
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-spanish",
+        "yzhang.markdown-all-in-one",
+        "editorconfig.editorconfig",
+        "golang.go"
+    ]
+}
