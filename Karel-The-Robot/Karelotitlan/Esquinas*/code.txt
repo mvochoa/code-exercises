@@ -1,0 +1,33 @@
+iniciar-programa
+    define-nueva-instruccion gira-derecha como inicio
+        gira-izquierda;
+        gira-izquierda;
+        gira-izquierda;
+    fin;
+    define-nueva-instruccion suelta como inicio
+        si algun-zumbador-en-la-mochila entonces inicio
+          repetir 5 veces inicio
+              deja-zumbador
+          fin;
+        fin;
+    fin;
+
+    inicia-ejecucion
+        mientras algun-zumbador-en-la-mochila hacer inicio
+            mientras frente-libre y izquierda-bloqueada hacer inicio
+                avanza;
+            fin;
+            si izquierda-libre entonces inicio
+                gira-izquierda;
+            fin
+            sino inicio
+                gira-derecha;
+            fin;
+            suelta;
+            si frente-libre entonces inicio
+                avanza;
+            fin;
+         fin;
+     apagate;
+    termina-ejecucion
+finalizar-programa
