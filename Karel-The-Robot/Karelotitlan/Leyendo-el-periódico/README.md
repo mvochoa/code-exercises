@@ -1,4 +1,5 @@
 # Leyendo el periódico
+Referencia: [https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12887](https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12887)
 
 Después de una larga noche de sueño, Karel se ha levantado y se ha dirigido a su sala dispuesto a leer el periódico.
 
@@ -25,7 +26,3 @@ Escribe un programa que permita a Karel ir por el periódico y regresar a su sal
  Mundo de ejemplo | Solución al mundo de ejemplo
 ---|---
  ![Mundo de ejemplo](images/img1.jpg) | ![Mundo de ejemplo](images/img2.jpg)
-
-[Karelotitlán v1.2.6](http://www.cmirg.com/karelotitlan/pantallas/Problema.aspx?id=12887)
-por Félix Rafael Horta Cuadrilla
-[Créditos](http://www.cmirg.com/karelotitlan/pantallas/AcercaDe.aspx)

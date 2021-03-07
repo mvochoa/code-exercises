@@ -1,4 +1,5 @@
 # Kontando en el Kallejón
+Referencia: [https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12933](https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12933)
 
 Karel está en un callejón que sólo tiene una salida y no tiene recovecos. Karel sabe que el final del callejón es un lugar donde hay un zumbador.
 
@@ -22,11 +23,3 @@ Karel está en un callejón que sólo tiene una salida y no tiene recovecos. Kar
 ## Explicación al mundo de ejemplo
 
 La forma de salir del callejón del caso de ejemplo es: avanza (1), gira-izquierda (2), avanza (3), gira-izquierda (4), avanza (5), avanza (6), gira-izquierda (7), gira-izquierda (8), gira-izquierda(9) y avanza (10).
-
-## Agradecimiento
-
-Se agradece al Comité de Informática del Estado de Aguascalientes (OMIAgs) el permiso para publicar este problema en nuestro sitio.
-
-[Karelotitlán v1.2.6](http://www.cmirg.com/karelotitlan/pantallas/Problema.aspx?id=12933)
-por Félix Rafael Horta Cuadrilla
-[Créditos](http://www.cmirg.com/karelotitlan/pantallas/AcercaDe.aspx)

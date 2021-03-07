@@ -1,4 +1,5 @@
 # La novia de Karel
+Referencia: [https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12965](https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12965)
 
 Karel ha organizado una fiesta, en la cual está invitando a sus amigos, familiares y a su novia.
 
@@ -29,11 +30,3 @@ Los amigos están representados por montones de 1 zumbador, los familiares por m
  Mundo de ejemplo | Solución al mundo de ejemplo
 ---|---
  ![](images/img1.jpg) | ![](images/img2.jpg)
-
-## Agradecimiento
-
-Se agradece al Comité de Informática del Estado de San Luis Potosí el permiso para publicar este problema en nuestro sitio.
-
-[Karelotitlán v1.2.6](http://www.cmirg.com/karelotitlan/pantallas/Problema.aspx?id=12965)
-por Félix Rafael Horta Cuadrilla
-[Créditos](http://www.cmirg.com/karelotitlan/pantallas/AcercaDe.aspx)

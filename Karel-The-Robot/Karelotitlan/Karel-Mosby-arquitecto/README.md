@@ -1,4 +1,5 @@
 # Karel Mosby, arquitecto
+Referencia: [https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12957](https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12957)
 
 Karel Mosby está por terminar la carrera de arquitectura, como proyecto terminal debe dibujar el panorama urbano de la ciudad de Cuernavaca. El panorama urbano de una ciudad es la silueta que dibujan los edificios de la misma con el horizonte. Probablemente has visto en posters panoramas urbanos de ciudades como la Ciudad de México, Chicago o Nueva York.
 
@@ -28,11 +29,3 @@ Ayuda a Karel a realizar su proyecto terminal.
 ## Explicación al mundo de ejemplo
 
 El lado izquierdo de la figura muestra el mundo inicial, la vista superior de la ciudad. El lado derecho de la figura muestra el panorama urbano dibujado por Karel.
-
-## Agradecimiento
-
-Se agradece al Comité Olímpico Mexicano de Informática el permiso para publicar este problema en nuestro sitio; que fue aplicado en el examen nacional de la 16a OMI, celebrada en la ciudad de Cuernavaca, Morelos en el año 2011.
-
-[Karelotitlán v1.2.6](http://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12957)
-por Félix Rafael Horta Cuadrilla
-[Créditos](http://www.cmirg.com/karelotitlan/pantallas/AcercaDe.aspx)

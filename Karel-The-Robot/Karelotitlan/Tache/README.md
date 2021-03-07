@@ -1,4 +1,5 @@
 # ¡Tache!
+Referencia: [https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12931](https://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12931)
 
 Karel vive dentro de un cuadrado.
 
@@ -19,11 +20,3 @@ Tu tarea consiste en poner un tache dentro del cuadrado.
  Mundo de ejemplo | Solución al mundo de ejemplo
 ---|---
  ![](images/img1.jpg) | ![](images/img2.jpg)
-
-## Agradecimiento
-
-Se agradece al Comité de Informática del Estado de Aguascalientes (OMIAgs) el permiso para publicar este problema en nuestro sitio.
-
-[Karelotitlán v1.2.6](http://www.cmirg.com/karelotitlan/Pantallas/Problema.aspx?id=12931)
-por Félix Rafael Horta Cuadrilla
-[Créditos](http://www.cmirg.com/karelotitlan/pantallas/AcercaDe.aspx)
