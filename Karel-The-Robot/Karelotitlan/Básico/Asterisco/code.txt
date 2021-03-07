@@ -1,0 +1,93 @@
+iniciar-programa
+    define-nueva-instruccion gira(n) como inicio
+        repetir n veces inicio
+            gira-izquierda;
+        fin;
+    fin;
+
+    define-nueva-instruccion gira-derecha como inicio
+        gira(3);
+    fin;
+
+    define-nueva-instruccion recolocar como inicio
+        mientras no-orientado-al-oeste hacer inicio
+            gira-izquierda;
+        fin;
+        mientras frente-libre hacer inicio
+            avanza;
+        fin;
+        gira-izquierda;
+        mientras frente-libre hacer inicio
+            avanza;
+        fin;
+        gira(2);
+    fin;
+
+    define-nueva-instruccion diagonalPositiva como inicio
+        mientras frente-libre y no-junto-a-zumbador hacer inicio
+          deja-zumbador;
+          avanza;
+          gira-derecha;
+          avanza;
+          gira-izquierda;
+        fin;
+        deja-zumbador;
+    fin;
+
+    define-nueva-instruccion diagonalNegativa como inicio
+        mientras frente-libre y no-junto-a-zumbador hacer inicio
+          deja-zumbador;
+          avanza;
+          gira-izquierda;
+          avanza;
+          gira-derecha;
+        fin;
+        deja-zumbador;
+    fin;
+
+    define-nueva-instruccion reversa como inicio
+        gira(2);
+        avanza;
+        gira(2);
+    fin;
+
+    define-nueva-instruccion bucle como inicio
+        si frente-libre entonces inicio
+            avanza;
+            bucle;
+        fin;
+        si frente-bloqueado entonces inicio
+            gira(2);
+        fin;
+        deja-zumbador;
+        avanza;
+    fin;
+
+    define-nueva-instruccion linea como inicio
+        bucle;
+        reversa;
+        bucle;
+        reversa;
+    fin;
+
+    inicia-ejecucion
+        recolocar;
+        diagonalPositiva;
+        recolocar;
+        gira-derecha;
+        mientras frente-libre hacer inicio
+            avanza;
+        fin;
+        gira-izquierda;
+        diagonalNegativa;
+        linea;
+        gira-izquierda;
+        linea;
+        gira-derecha;
+        mientras junto-a-zumbador hacer inicio
+            coge-zumbador;
+        fin;
+        diagonalNegativa;
+        apagate;
+    termina-ejecucion
+finalizar-programa
